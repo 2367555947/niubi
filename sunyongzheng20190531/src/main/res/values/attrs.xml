@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ZdyView">
+        <attr name="axWidth" format="color"></attr>
+        <attr name="c" format="integer"></attr>
+    </declare-styleable>
+</resources>
